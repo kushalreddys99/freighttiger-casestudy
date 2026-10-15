@@ -1,0 +1,10 @@
+{
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "llm_cost_inr": 0.0,
+  "retrieval_method": "TF-IDF (scikit-learn), local, no API",
+  "retrieval_queries": 9,
+  "rows_written": 9,
+  "retrieval_proposals_rejected_by_filters": 24
+}
